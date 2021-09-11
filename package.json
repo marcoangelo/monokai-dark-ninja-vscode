@@ -1,0 +1,25 @@
+{
+  "name": "monokai-dark-ninja",
+  "displayName": "Monokai Dark Ninja",
+  "description": "Extra dark theme based on Monokai, with vibrant colours.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.52.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "images/icon.png",
+  "author": {
+    "name": "marcoangelo"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monokai Dark Ninja",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monokai Dark Ninja-color-theme.json"
+      }
+    ]
+  }
+}
