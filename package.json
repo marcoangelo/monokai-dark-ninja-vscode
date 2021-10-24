@@ -3,7 +3,7 @@
   "publisher": "MarcoAngelo",
   "displayName": "Monokai Dark Ninja",
   "description": "Extra dark theme based on Monokai, with vibrant colours.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.52.0"
   },
