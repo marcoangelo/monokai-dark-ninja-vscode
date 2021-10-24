@@ -1,15 +1,26 @@
 {
   "name": "monokai-dark-ninja",
+  "publisher": "MarcoAngelo",
   "displayName": "Monokai Dark Ninja",
   "description": "Extra dark theme based on Monokai, with vibrant colours.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.52.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcoangelo/monokai-dark-ninja-vscode"
+  },
   "categories": [
     "Themes"
   ],
-  "icon": "images/icon.png",
+  "icon": "icon.png",
+  "keywords": [
+    "monokai",
+    "monokai dark ninja",
+    "monokai dark",
+    "theme"
+  ],
   "author": {
     "name": "marcoangelo"
   },
