@@ -2,7 +2,7 @@
   "name": "monokai-dark-ninja",
   "publisher": "MarcoAngelo",
   "displayName": "Monokai Dark Ninja",
-  "description": "Extra dark theme based on Monokai, with vibrant colours.",
+  "description": "Extra dark theme based on Monokai, with vibrant colours. For Ninjas.",
   "version": "0.0.2",
   "engines": {
     "vscode": "^1.52.0"
@@ -19,7 +19,8 @@
     "monokai",
     "monokai dark ninja",
     "monokai dark",
-    "theme"
+    "theme",
+    "ninja"
   ],
   "author": {
     "name": "marcoangelo"
